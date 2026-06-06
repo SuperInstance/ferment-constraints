@@ -1,0 +1,15 @@
+[package]
+name = "ferment-constraints"
+version = "0.1.0"
+edition = "2024"
+description = "Constraint satisfaction as fermentation — sourdough starters and server fleets solve the same class of problem"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ferment-constraints"
+keywords = ["csp", "constraint-satisfaction", "fermentation", "ac-3", "optimization"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+
+[dev-dependencies]
+serde_json = "1"
