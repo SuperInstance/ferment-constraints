@@ -5,7 +5,7 @@ edition = "2021"
 description = "Constraint satisfaction as fermentation — sourdough starters and server fleets solve the same class of problem"
 license = "MIT"
 repository = "https://github.com/SuperInstance/ferment-constraints"
-keywords = ["csp", "constraint-satisfaction", "fermentation", "ac-3", "optimization"]
+keywords = ["csp", "constraints", "fermentation", "ac-3", "optimization"]
 categories = ["algorithms", "mathematics", "science"]
 
 [dependencies]
